@@ -4,7 +4,7 @@
 
 **Semester:** Fall 2026
 
-**Instructor:** Your Instructor's Name
+**Instructor:** Mr Reed
 
 ## About This Repo
 
