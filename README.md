@@ -24,3 +24,9 @@ Each script is standalone. Open a terminal and run:
 ```bash
 python week07/functions.py
 ```
+## Skills Practiced
+
+- Python programming
+- Functions
+- Git and GitHub
+- Version control
